@@ -1,0 +1,22 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "postgres://postgres:postgres@localhost:5432/widgetbrain",
+    "database": "widgetbrain",
+    "password": "postgres",
+    "name": "db",
+    "user": "postgres",
+    "connector": "postgresql"
+  },
+  "dbslc": {
+    "host": "",
+    "port": 0,
+    "url": "postgres://postgres:postgres@localhost:5432/widgetbrain",
+    "database": "",
+    "password": "",
+    "name": "dbslc",
+    "user": "",
+    "connector": "postgresql"
+  }
+}
